@@ -49,9 +49,11 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/ayush-jain21032002?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+## 🔗 Connect With Me
 
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link](https://www.instagram.com/ayush._jain21?igsh=MTVvdnB6Y2RoaWdzaA==))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-jain21032002)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@ayush._jain21-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush._jain21)
 
 ## 🎉 Fun Fact
 ⚡ I enjoy solving DSA problems at midnight and turning coffee into code ☕💻
